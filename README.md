@@ -1,0 +1,2 @@
+# Amazon
+ javascript project
